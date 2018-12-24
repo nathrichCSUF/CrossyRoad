@@ -863,3 +863,402 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.24-10.18.43:368][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.12.24-10.18.43:407][298]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2018.12.24-10.19.08:727][614]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.24-10.19.47:729][ 95]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Minimal_Default_Auto23EFD12D8489C792FFC2F64ABC9C5BA23.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.12.24-10.19.47:738][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.229
+[2018.12.24-10.19.47:738][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.229
+[2018.12.24-10.21.34:302][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.21.34:562][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_AreaSpawner.BP_AreaSpawner
+[2018.12.24-10.21.39:064][642]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.21.39:206][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.21.39:211][642]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_AreaSpawner.BP_AreaSpawner
+[2018.12.24-10.22.31:781][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.22.58:826][596]BlueprintLog: New page: Compile BP_AreaSpawner
+[2018.12.24-10.22.59:616][609]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_AreaSpawner0ABD058349A82208263D31AEDE17BCF5.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_AreaSpawner.uasset'
+[2018.12.24-10.23.45:488][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.24.08:755][435]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_AreaSpawner86872C7A40705AA955EBDFAF8ED891E5.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_AreaSpawner.uasset'
+[2018.12.24-10.24.13:974][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.24.14:139][577]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.24.14:174][577]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.24.15:360][610]LogEditorViewport: Clicking on Actor (LMB): BP_Area_C (BP_Area)
+[2018.12.24-10.24.34:504][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.24.34:754][885]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_AreaSpawner.BP_AreaSpawner
+[2018.12.24-10.25.16:687][743]BlueprintLog: New page: Compile BP_AreaSpawner
+[2018.12.24-10.25.17:536][757]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_AreaSpawner76F698104258A5C7C3CFB8BD20D4F121.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_AreaSpawner.uasset'
+[2018.12.24-10.25.18:701][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.25.18:862][790]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.25.18:877][790]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.25.20:288][831]LogEditorViewport: Clicking on Actor (LMB): BP_Area_C (BP_Area)
+[2018.12.24-10.25.21:237][858]Cmd: DELETE
+[2018.12.24-10.25.21:238][858]Cmd: ACTOR DELETE
+[2018.12.24-10.25.21:247][858]LogEditorActor: Deleted Actor: BP_Area_C
+[2018.12.24-10.25.21:318][858]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2018.12.24-10.25.24:179][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.25.31:420][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.25.31:603][150]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.25.31:664][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.25.31:664][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.25.31:664][150]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:25:31 PM)
+[2018.12.24-10.25.31:665][150]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.25.31:671][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006751s)
+[2018.12.24-10.25.31:672][150]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.25.31:673][150]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.12.24-10.25.31:673][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008043s)
+[2018.12.24-10.25.31:713][150]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.25.31:808][150]LogInit: FAudioDevice initialized.
+[2018.12.24-10.25.31:844][150]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.25.31:845][150]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.25.31
+[2018.12.24-10.25.31:846][150]LogWorld: Bringing up level for play took: 0.001252
+[2018.12.24-10.25.31:860][150]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-80.000 Y=50.000 Z=100.000] for [BP_Area_C]
+[2018.12.24-10.25.31:861][150]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.247
+[2018.12.24-10.25.31:861][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.25.43:285][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.25.43:287][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.25.43:361][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.25.43:361][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.25.43:408][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.25.43:446][633]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.24-10.26.00:832][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass5)
+[2018.12.24-10.26.08:137][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.26.16:486][493]LogActorFactory: Actor Factory created tree
+[2018.12.24-10.26.17:492][520]LogActorFactory: Actor Factory created tree
+[2018.12.24-10.26.23:049][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.27.33:023][551]Cmd: EDIT COPY
+[2018.12.24-10.27.34:501][596]Cmd: EDIT PASTE
+[2018.12.24-10.27.39:048][726]Cmd: EDIT PASTE
+[2018.12.24-10.27.47:028][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (tree)
+[2018.12.24-10.27.48:058][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (tree2)
+[2018.12.24-10.27.49:585][ 24]Cmd: EDIT COPY
+[2018.12.24-10.27.49:943][ 34]Cmd: EDIT PASTE
+[2018.12.24-10.28.37:008][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.28.37:237][373]LogActorFactory: Actor Factory created bush
+[2018.12.24-10.28.37:875][387]LogActorFactory: Actor Factory created bush
+[2018.12.24-10.29.36:711][ 63]Cmd: EDIT COPY
+[2018.12.24-10.29.37:023][ 72]Cmd: EDIT PASTE
+[2018.12.24-10.29.40:621][172]Cmd: EDIT COPY
+[2018.12.24-10.29.41:042][184]Cmd: EDIT PASTE
+[2018.12.24-10.29.45:799][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bush2)
+[2018.12.24-10.29.46:783][340]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bush)
+[2018.12.24-10.29.47:774][367]Cmd: EDIT COPY
+[2018.12.24-10.29.48:081][375]Cmd: EDIT PASTE
+[2018.12.24-10.29.59:986][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.24-10.30.02:070][755]LogEditorViewport: Clicking on Actor (LMB): BP_AreaSpawner_C (BP_AreaSpawner)
+[2018.12.24-10.30.15:517][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.30.15:707][155]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.30.15:747][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.30.15:747][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.30.15:747][155]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:30:15 PM)
+[2018.12.24-10.30.15:748][155]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.30.15:769][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021473s)
+[2018.12.24-10.30.15:769][155]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.30.15:770][155]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.12.24-10.30.15:770][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.022741s)
+[2018.12.24-10.30.15:821][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.30.15:912][155]LogInit: FAudioDevice initialized.
+[2018.12.24-10.30.15:949][155]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.30.15:950][155]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.30.15
+[2018.12.24-10.30.15:950][155]LogWorld: Bringing up level for play took: 0.001309
+[2018.12.24-10.30.15:966][155]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-80.000 Y=50.000 Z=100.000] for [BP_Area_C]
+[2018.12.24-10.30.15:966][155]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.353
+[2018.12.24-10.30.15:967][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.30.27:191][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.30.27:192][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.30.27:255][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.30.27:255][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.30.27:305][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.30.27:344][617]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.24-10.30.51:513][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.30.51:821][383]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Minimal_Default_Auto3D7137F2D40DF72576A7DD38B2E64001E.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2018.12.24-10.30.51:829][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.277
+[2018.12.24-10.30.51:829][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2018.12.24-10.31.00:169][648]LogEditorViewport: Clicking on Actor (LMB): BP_AreaSpawner_C (BP_AreaSpawner)
+[2018.12.24-10.31.11:364][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.31.13:943][820]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_AreaSpawner.BP_AreaSpawner
+[2018.12.24-10.32.12:753][107]BlueprintLog: New page: Compile BP_AreaSpawner
+[2018.12.24-10.32.13:958][130]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_AreaSpawner048E28804CE03CA4A886D0ADC764A3A6.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_AreaSpawner.uasset'
+[2018.12.24-10.32.46:196][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.33.09:873][534]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_AreaSpawner0F66F8E74FE05E043687C794B62F93DB.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_AreaSpawner.uasset'
+[2018.12.24-10.33.11:431][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.33.13:458][622]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.33.13:477][622]LogSlate: Window 'BP_AreaSpawner' being destroyed
+[2018.12.24-10.33.14:562][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.33.14:710][657]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.33.14:779][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.33.14:779][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.33.14:780][657]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:33:14 PM)
+[2018.12.24-10.33.14:780][657]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.33.14:788][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008249s)
+[2018.12.24-10.33.14:789][657]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.33.14:789][657]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.12.24-10.33.14:789][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009542s)
+[2018.12.24-10.33.14:831][657]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.33.14:929][657]LogInit: FAudioDevice initialized.
+[2018.12.24-10.33.14:960][657]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.33.14:962][657]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.33.14
+[2018.12.24-10.33.14:962][657]LogWorld: Bringing up level for play took: 0.001369
+[2018.12.24-10.33.14:976][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-80.000 Y=50.000 Z=100.000] for [BP_Area_C]
+[2018.12.24-10.33.14:977][657]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.637
+[2018.12.24-10.33.14:977][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.33.18:608][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.33.18:609][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.33.18:678][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.33.18:678][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.33.18:725][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.33.18:761][805]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.24-10.33.21:502][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.33.24:360][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-10.33.24:711][973]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Minimal_DefaultF849AAA842838B03999108963ADD4A94.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.12.24-10.33.24:742][973]LogFileHelpers: Saving map 'Minimal_Default' took 0.374
+[2018.12.24-10.33.24:745][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/bush" FILE="../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/bush.uasset" SILENT=true
+[2018.12.24-10.33.24:752][973]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/bush16959C024C0E5D1F9AB720B5A0B106EE.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/bush.uasset'
+[2018.12.24-10.33.24:770][973]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/OrangeCarE39FBBA94B6E8CC74F358E9ABCE89225.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/OrangeCar.uasset'
+[2018.12.24-10.33.24:799][973]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/PurpleCar934D24A542FF8CE76188B3A38A6664F6.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/PurpleCar.uasset'
+[2018.12.24-10.33.24:809][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/tree" FILE="../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/tree.uasset" SILENT=true
+[2018.12.24-10.33.24:818][973]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/tree7AA437664DE1FB1190BFE8857B14B773.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Props/tree.uasset'
+[2018.12.24-10.33.26:991][ 42]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.24-10.33.28:127][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_AreaSpawner_C (BP_AreaSpawner)
+[2018.12.24-10.33.30:123][127]Cmd: DELETE
+[2018.12.24-10.33.30:123][127]Cmd: ACTOR DELETE
+[2018.12.24-10.33.30:131][127]LogEditorActor: Deleted Actor: BP_AreaSpawner_C
+[2018.12.24-10.33.30:199][127]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.12.24-10.33.31:818][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.33.41:192][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.33.53:740][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.34.11:048][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.34.23:374][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.34.23:727][406]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Area.BP_Area
+[2018.12.24-10.34.39:251][724]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.34.39:270][724]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.34.40:868][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.34.41:128][753]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.35.14:592][470]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_PlayerBC61155F40B860EAA626828390E43486.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_Player.uasset'
+[2018.12.24-10.35.16:123][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.35.16:339][500]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.35.16:388][500]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.35.18:678][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.35.20:536][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.35.20:587][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.20:587][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.35.20:587][618]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:35:20 PM)
+[2018.12.24-10.35.20:587][618]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.35.20:596][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008406s)
+[2018.12.24-10.35.20:597][618]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.35.20:597][618]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2018.12.24-10.35.20:597][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009748s)
+[2018.12.24-10.35.20:651][618]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.35.20:763][618]LogInit: FAudioDevice initialized.
+[2018.12.24-10.35.20:797][618]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.35.20:800][618]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.35.20
+[2018.12.24-10.35.20:800][618]LogWorld: Bringing up level for play took: 0.002007
+[2018.12.24-10.35.20:815][618]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-350.000 Y=50.000 Z=115.000] for [BP_Player_C]
+[2018.12.24-10.35.20:815][618]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Player_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -350.000000 49.999802 115.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.12.24-10.35.20:828][618]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.214
+[2018.12.24-10.35.20:829][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.25:459][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.25:459][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.35.25:506][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.35.25:506][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.25:550][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.35.25:566][818]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.24-10.35.27:248][861]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.35.28:669][887]Cmd: TRANSACTION UNDO
+[2018.12.24-10.35.28:669][887]LogEditorTransaction: Undo Make New Scene Root
+[2018.12.24-10.35.30:777][970]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_PlayerCAB310B34A3C73B9CBE2FC9C4E85767F.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_Player.uasset'
+[2018.12.24-10.35.31:751][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.35.31:897][  3]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.35.31:903][  3]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.35.32:862][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.35.33:010][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.35.33:030][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.33:030][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.35.33:030][ 42]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:35:33 PM)
+[2018.12.24-10.35.33:031][ 42]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.35.33:038][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006928s)
+[2018.12.24-10.35.33:038][ 42]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.35.33:039][ 42]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2018.12.24-10.35.33:039][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008109s)
+[2018.12.24-10.35.33:077][ 42]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.35.33:171][ 42]LogInit: FAudioDevice initialized.
+[2018.12.24-10.35.33:206][ 42]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.35.33:208][ 42]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.35.33
+[2018.12.24-10.35.33:208][ 42]LogWorld: Bringing up level for play took: 0.001516
+[2018.12.24-10.35.33:223][ 42]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.392
+[2018.12.24-10.35.33:223][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.44:013][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.44:014][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.35.44:074][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.35.44:074][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.35.44:124][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.35.44:163][470]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.24-10.35.50:492][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.35.50:797][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Area.BP_Area
+[2018.12.24-10.38.13:619][613]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-10.39.28:379][567]BlueprintLog: New page: Compile BP_Area
+[2018.12.24-10.40.16:049][789]BlueprintLog: New page: Compile BP_Area
+[2018.12.24-10.40.17:174][807]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_Area9CAC2AEC4A5B6687A9C7C091441A4C23.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_Area.uasset'
+[2018.12.24-10.40.18:670][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.40.18:831][850]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.40.18:850][850]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.40.21:760][939]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.24-10.40.24:559][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.40.24:800][  1]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Area.BP_Area
+[2018.12.24-10.41.06:956][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.42.57:099][237]BlueprintLog: New page: Compile BP_Area
+[2018.12.24-10.42.58:080][250]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_Area3B1AF6074E5DDC06430903B91C378F7A.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_Area.uasset'
+[2018.12.24-10.42.59:209][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.42.59:345][280]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.42.59:363][280]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.43.00:661][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.43.00:843][320]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.43.00:890][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.43.00:890][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.43.00:891][320]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:43:00 PM)
+[2018.12.24-10.43.00:891][320]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.43.00:909][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017686s)
+[2018.12.24-10.43.00:909][320]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.43.00:910][320]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2018.12.24-10.43.00:910][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.018850s)
+[2018.12.24-10.43.00:952][320]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.43.01:045][320]LogInit: FAudioDevice initialized.
+[2018.12.24-10.43.01:078][320]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.43.01:079][320]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.43.01
+[2018.12.24-10.43.01:080][320]LogWorld: Bringing up level for play took: 0.001650
+[2018.12.24-10.43.01:094][320]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.519
+[2018.12.24-10.43.01:094][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.43.12:636][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.43.12:640][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.43.12:692][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.43.12:693][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.43.12:750][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.43.12:800][775]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.24-10.43.16:402][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.24-10.43.31:894][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.43.32:144][997]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Area.BP_Area
+[2018.12.24-10.44.02:295][287]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Minimal_Default_Auto465C8A6714480418C5D2696B92AB26898.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.12.24-10.44.02:303][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.264
+[2018.12.24-10.44.02:303][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2018.12.24-10.45.03:321][542]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.45.03:334][542]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.45.05:349][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.45.05:693][579]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.45.17:579][857]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.45.17:599][857]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.45.36:081][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.45.36:624][949]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/GM_Base.GM_Base
+[2018.12.24-10.45.39:384][  6]LogSlate: Window 'GM_Base' being destroyed
+[2018.12.24-10.45.39:433][  6]LogSlate: Window 'GM_Base' being destroyed
+[2018.12.24-10.45.40:739][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.45.41:019][ 35]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.47.13:098][  8]LogEditorTransaction: Undo Change Individual Channel
+[2018.12.24-10.47.25:890][305]Cmd: TRANSACTION UNDO
+[2018.12.24-10.47.25:891][305]LogEditorTransaction: Undo Edit Collision Profile Name
+[2018.12.24-10.47.34:301][504]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.47.34:321][504]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.47.36:487][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.47.36:950][547]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Area.BP_Area
+[2018.12.24-10.48.02:550][701]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.48.02:575][701]LogSlate: Window 'BP_Area' being destroyed
+[2018.12.24-10.48.04:149][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.48.04:478][736]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.48.14:073][954]BlueprintLog: New page: Compile BP_Player
+[2018.12.24-10.48.29:355][306]LogSavePackage: Moving '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Saved/BP_PlayerB83F7A8C4A1784A9958E71AB3E7E0EA8.tmp' to '../../../../../../Users/nater/Documents/Intro to Gaming/CrossyRoad/CrossyRoad/Content/StarterContent/Blueprints/BP_Player.uasset'
+[2018.12.24-10.48.31:299][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.48.31:479][356]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.48.31:497][356]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.48.32:828][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.48.32:987][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.48.33:046][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.48.33:046][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.48.33:047][395]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:48:33 PM)
+[2018.12.24-10.48.33:047][395]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.48.33:057][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009828s)
+[2018.12.24-10.48.33:058][395]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.48.33:058][395]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.12.24-10.48.33:058][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011133s)
+[2018.12.24-10.48.33:111][395]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.48.33:207][395]LogInit: FAudioDevice initialized.
+[2018.12.24-10.48.33:245][395]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.48.33:247][395]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.48.33
+[2018.12.24-10.48.33:248][395]LogWorld: Bringing up level for play took: 0.001802
+[2018.12.24-10.48.33:261][395]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-350.000 Y=50.000 Z=115.000] for [BP_Player_C]
+[2018.12.24-10.48.33:261][395]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Player_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -350.000000 49.999802 115.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.12.24-10.48.33:262][395]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.351
+[2018.12.24-10.48.33:262][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.48.36:848][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.48.36:850][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.48.36:912][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.48.36:912][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.48.36:964][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.48.37:001][545]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.12.24-10.48.41:838][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.48.42:071][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.48.44:349][727]Cmd: TRANSACTION UNDO
+[2018.12.24-10.48.44:349][727]LogEditorTransaction: Undo Make New Scene Root
+[2018.12.24-10.49.15:356][225]BlueprintLog: New page: Compile BP_Player
+[2018.12.24-10.49.15:429][225]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_24, Actor: /Engine/Transient.World_24:PersistentLevel.REINST_BP_Player_C_0
+[2018.12.24-10.49.17:833][263]LogSlate: Window 'BP_Player*' being destroyed
+[2018.12.24-10.49.17:900][263]LogSlate: Window 'BP_Player*' being destroyed
+[2018.12.24-10.49.19:100][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.49.19:245][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.49.19:311][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.19:311][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.49.19:311][304]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:49:19 PM)
+[2018.12.24-10.49.19:312][304]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.49.19:324][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011740s)
+[2018.12.24-10.49.19:324][304]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.49.19:325][304]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.12.24-10.49.19:325][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013112s)
+[2018.12.24-10.49.19:376][304]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.49.19:478][304]LogInit: FAudioDevice initialized.
+[2018.12.24-10.49.19:513][304]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.49.19:516][304]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.49.19
+[2018.12.24-10.49.19:516][304]LogWorld: Bringing up level for play took: 0.002949
+[2018.12.24-10.49.19:531][304]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-350.000 Y=50.000 Z=115.000] for [BP_Player_C]
+[2018.12.24-10.49.19:531][304]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Player_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -350.000000 49.999802 115.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.12.24-10.49.19:531][304]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.083
+[2018.12.24-10.49.19:532][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.22:667][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.22:667][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.49.22:729][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.49.22:729][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.22:779][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.49.22:817][431]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.12.24-10.49.26:392][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.49.26:655][536]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/BP_Player.BP_Player
+[2018.12.24-10.49.31:498][664]Cmd: TRANSACTION UNDO
+[2018.12.24-10.49.31:499][664]LogEditorTransaction: Undo Make New Scene Root
+[2018.12.24-10.49.32:447][688]Cmd: TRANSACTION UNDO
+[2018.12.24-10.49.32:447][688]LogEditorTransaction: Undo Set Location
+[2018.12.24-10.49.37:891][837]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.49.37:905][837]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.24-10.49.38:726][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-10.49.38:908][869]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-10.49.38:956][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.38:956][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-10.49.38:957][869]PIE: New page: PIE session: Minimal_Default (Dec 23, 2018, 6:49:38 PM)
+[2018.12.24-10.49.38:957][869]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.12.24-10.49.38:968][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010524s)
+[2018.12.24-10.49.38:969][869]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.12.24-10.49.38:969][869]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.12.24-10.49.38:969][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011801s)
+[2018.12.24-10.49.39:010][869]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-10.49.39:103][869]LogInit: FAudioDevice initialized.
+[2018.12.24-10.49.39:136][869]LogLoad: Game class is 'GM_Base_C'
+[2018.12.24-10.49.39:137][869]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.12.24-02.49.39
+[2018.12.24-10.49.39:138][869]LogWorld: Bringing up level for play took: 0.001604
+[2018.12.24-10.49.39:152][869]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.462
+[2018.12.24-10.49.39:152][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.50:409][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.50:410][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.49.50:474][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-10.49.50:475][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.12.24-10.49.50:527][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-10.49.50:567][322]LogPlayLevel: Display: Destroying online subsystem :Context_43
